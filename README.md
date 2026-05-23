@@ -14,7 +14,7 @@ Smart home automation system with FreeRTOS — STM32F407
 A complete smart home automation system built on STM32F407 with FreeRTOS.
 The system runs 6 concurrent tasks managing sensors, actuators, security,
 and display — all synchronized with mutexes.
-
+![Hardware demo](media/demo.jpg)
 ## Hardware
 
 | Component | Details |
